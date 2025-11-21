@@ -1,0 +1,1 @@
+Este es solo el archivo que hace el enlace de la pagina web con el codigo de reconocimiento.py, no puedo subir completo debido a que, aunque se comprima el archivo, es muy pesado para subir al repositorio

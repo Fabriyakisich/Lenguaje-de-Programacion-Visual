@@ -1,0 +1,2 @@
+Avance_front.zip filter=lfs diff=lfs merge=lfs -text
+Avance[[:space:]]front filter=lfs diff=lfs merge=lfs -text
