@@ -1,0 +1,8 @@
+# Dependencias de reconocimiento facial + GUI
+opencv-contrib-python>=4.8.0
+numpy>=1.24.0
+
+# API de exportación (servidor + cliente HTTP)
+fastapi>=0.110.0
+uvicorn>=0.30.0
+requests>=2.31.0
